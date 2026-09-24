@@ -7,6 +7,10 @@ helix-importer-ui
 .DS_Store
 *.bak
 .idea
+/.agents/
+/.claude/
+/agent/
+/skills-lock.json
 
 # Ensure these files are tracked
 !CLAUDE.md
